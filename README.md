@@ -1,2 +1,2 @@
-# recsys-crawler
-crawler for the recommendation system
+# dolphin-recsys-crawler
+web crawler for the dolphin recommendation system
